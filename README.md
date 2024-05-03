@@ -1,91 +1,151 @@
-# Alfarezi-md
+ <h1 align="center"> Alfarezi Md </h1> 
+<p align="center"> A simple WhatsApp bot with rich features. </p>
 
-<p align = center>   <img src="https://telegra.ph/file/b35562cb0b662c1d24a73.jpg" alt="GIF" width="600" height="300"/> </p>
+ 
+<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
-<p align  = center> <a href="#"><img title="CYBER-X WHATSAPP BOT" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
-
-
-## Authors
-
-- [@DARKALPHAXTEAM](https://www.github.com/darkalphaxteam)
-
-## Support Group
-
-- [Join (Only Access for Bots) ](https://chat.whatsapp.com/IZhmddusPM41KkDXZkeRio)
-
-## Own
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+<h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
 
 
-## Heroku Deployment
-
-1. Scan QR - [Click here](https://gpt-qr-web-scaner.onrender.com/cyber-x.html)
-
-2. Fork the Repo - [Click here](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT/fork)
-
-3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
-
-4. Create your own Heroku template Link `https://heroku.com/deploy?template={Your repo Link}`
-
-5. Deploy now without Heroku Suspend
-
-
-## Features
-
-- Group Commands
-- Download Commands
-- 24 Work time
-- Full Costermizable
-- Free Deployments
-- Latest Baileys Using
-- 2x Respond Speed
-- Amazing Commands
+<p align="center">
+  <a href="https://youtube.com/@suhailtechinfo">
+    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+  </a>
+</p>
+    
+   
+   
+<p align="center">
+   <a href="https://github.com/SuhailTechInfo/Suhail-Md/fork">
+    <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+   </a>
+  <a href="https://github.com/SuhailTechInfo/Suhail-Md/stargazers"> 
+     <img src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+ </a>
 
 
-## Support
 
-For support, email darkalphaxteamofficial@gmail.com or After deploying the bot you can join the CYBER-X support group by using the `.joinsup` command…
+  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  </a>
 
+</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
 
-## Feedback
+<p align="center">
 
-If you have any feedback, please reach out to us at darkalphaxteamofficial@gmail.com
+ <a href="https://github.com/SuhailTechInfo">
+ <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
+   <a href="https://github.com/SuhailTechInfo">
+    <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
+  </a>
+  
 
-
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`SESSION_ID`
-
-`HEROKU_APP_NAME`
-
-`HEROKU_API_KEY`
-
-
-## Script 
-
-If you need this non Obb Script or Make you own script with me ( Money propose Only ) - [DARK_ALPHA](https://wa.me/711421243)
+ 
+ </p>
 
 
 
 
-## Info
 
-**Attention:** You dont have permission to edit this script
-
-**Special Thanks:** Vihanga YT, Nima , Sanuwa , Black Amda and Ravindu Manoj 
-
-## Copyrights
-
-This is the result of our team's hard work and our team owns the bot's rights and code rights. Therefore, you have no chance to change and submit our bot under any circumstances.
+---
 
 
-## ⚖️  *CYBER - X DEVELOPER TEAM* *2K23*  ⚖️
 
-| <a href="https://github.com/darkalphaxteam"><img src="https://telegra.ph/file/c670792adfe0d44dc5a99.jpg" width=90 height=90></a> | <a href="https://github.com/chamiofficial"><img src="https://telegra.ph/file/d81e589b841d6fd5d05a1.jpg" width=90 height=90></a> | <a href="https://github.com/DarkMakerofc"><img src="https://telegra.ph/file/819659c83ab8438084234.jpg" width=90 height=90></a> | <a href="https://github.com/Niranjana45"><img src="https://telegra.ph/file/a7e379be9415cdf16c9df.jpg" width=90 height=90></a> | <a href="https://github.com/nandundilhara"><img src="https://telegra.ph/file/213c1d599c5c3a61a7bed.jpg" width=90 height=90></a> | <a href="https://github.com/Tharushaa2004"><img src="https://telegra.ph/file/976651bc865695c128228.jpg" width=90 height=90></a> |
-|---|---|---|---|---|---|
-| **[DARK ALPHA](https://github.com/darkalphaxteam/)**</br>Founder & Developer</br> | **[ROSHAN CHAMIKA](https://github.com/chamiofficial)**</br>CO- Owner & CO-Coder</br> | **[MR.NIMA](https://github.com/DarkMakerofc)**</br> CO-Owner & CO-Coder</br> | **[Akash Niranjana](https://github.com/Niranjana45)**</br> Beta Tester | **[Nadun Dilhara](https://github.com/nandundilhara)**</br> Bug Tester | **[Tharusha Suwahas](https://github.com/Tharushaa2004)**</br> Bug Tester |
+
+<p align="center"> Suhail MD whatsapp bot uses
+  <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
+</p>
+<p align="center">
+  <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>Suhail-Md</b></a> Support Deploy On...
+</p>
+
+<p align="center">
+  <a href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://suhail-web01.vercel.app/deploy?platform=railway"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
+</p>
+<p align="center">
+  <a href="https://suhail-web01.vercel.app/deploy?platform=heroku"> <img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"> </a>
+  <a href="https://suhail-web01.vercel.app/deploy?platform=repl"  > <img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"> </a>
+  <a href="https://suhail-web01.vercel.app/deploy?platform=koyed" > <img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white">    </a>
+ <a href="https://suhail-web01.vercel.app/deploy?platform=glitch" > <img src="https://img.shields.io/badge/glitch-033604?style=for-the-badge&logo=glitch&logoColor=darkred"></a>
+</p>
+<p align="center">
+  <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
+</p>
+<p align="center">Need help? please create an <a href="https://github.com/SuhailTechInfo/Suhail-Md/issues">issue</a></p>
+
+ 
+
+
+
+## Bot Games
+---
+1. ***Connect Four Game.***
+2.  ***Tic Tac Toe.***
+3.  ***Number Guessing Game.***
+4.  ***Word chain Game.***
+5.  ***Hidden Card Game.***
+6.  ***Rolling Dice.***
+7.  ***Character Guessing Game.***
+8.  ***Capital of City Finding.***
+##
+
+
+ 
+
+
+
+
+    
+   
+## Deployment Methods
+---
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
+2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
+3.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` for Courage.***
+4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
+5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=suhail).  `FIXED! ✔️`***
+6.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/deploy?platform=repl). ([Tutorial](https://youtu.be/hPXU9OjMryQ) )***
+7.  ***Deploy on [`Railway`](https://suhail-web01.vercel.app/deploy?platform=railway). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
+8.  ***Deploy on [`Koyeb`](https://suhail-web01.vercel.app/deploy?platform=koyeb)***
+9. ***Deploy on [`Glitch`](https://suhail-web01.vercel.app/deploy?platform=glitch)***
+10. ***Deploy on [`RENDER`](https://suhail-web01.vercel.app/deploy?on=render)***
+10. ***Get [`More Plugins`](https://github.com/SuhailTechInfo/Suhail-Md-Media)***
+##
+
+ <details close>
+<summary>RENDER DEPLOY PROCESS</summary>
+   
+    1: Click "NEW".
+    2: Select "Web Service".
+    3: Click "Build and deploy from a Git repository".
+    4: Now Choose this forked git repo from list.
+    5: And JUST CLICK "Connect". 
+   </details>
+
+
+---
+
+
+- Star ⭐ repo if you like this bot.
+- If any problem, then create an [`+issue`](https://github.com/SuhailTechInfo/Suhail-Md/issues/new) Or ask anything here [`+Q&A`](https://github.com/SuhailTechInfo/Suhail-Md/discussions/new?category=q-a)!
+
+
+
+
+<h2 align="center"> ⚠️ NOTE  </h2>
+
+   
+## 
+
+- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+
